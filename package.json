@@ -1,6 +1,6 @@
 {
   "name": "dmgapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero native dependencies, ESM-first, blazing fast macOS DMG generator",
   "type": "module",
   "main": "./dist/index.js",
