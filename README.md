@@ -394,7 +394,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-Built as a modern replacement for [node-appdmg](https://github.com/LinusU/node-appdmg) by Linus Unnebäck @LinusU.
+Built as a modern replacement for [node-appdmg](https://github.com/LinusU/node-appdmg) by Linus Unnebäck @LinusU
 
 ---
 
